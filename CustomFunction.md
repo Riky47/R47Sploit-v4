@@ -14,7 +14,7 @@
 
 **_R47RanString(stronger) => Return random string [normal/stronger]**
 
-*Normal Example:* local RanString = **_R47RanString(false)** *--output: 20EuR52$DAQ41zDt630FC9PLHEu8OK*
+*Normal example:* local RanString = **_R47RanString(false)** *--output: 20EuR52$DAQ41zDt630FC9PLHEu8OK*
 
 *Stronger example:* local RanString = **_R47RanSring(true)** *--output: эчIйд1ъфHBг0ыуGж4ящKE8аVPIй7$Tфои*
 
