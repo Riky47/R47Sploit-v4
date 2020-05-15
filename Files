@@ -1,4 +1,4 @@
-/Bin/R47SploitData:29>Authenticated.html
+/Bin/R47SploitData/:29>Authenticated.html
 Initialize.html
 Editor.html
 Tutorial.html
@@ -26,7 +26,7 @@ v8_context_snapshot.bin
 icudtl.dat
 CefSharp.BrowserSubprocess.exe
 R47Sploit_v4.exe
-R47Sploit_v4.exe.config>/Bin/R47SploitData/ace:38>ace.js
+R47Sploit_v4.exe.config>/Bin/R47SploitData/ace/:38>ace.js
 ext-beautify.js
 ext-code_lens.js
 ext-elastic_tabstops_lite.js
@@ -63,7 +63,7 @@ worker-json.js
 worker-lua.js
 worker-php.js
 worker-xml.js
-worker-xquery.js>/Bin/R47SploitData/ace/snippets:168>abap.js
+worker-xquery.js>/Bin/R47SploitData/ace/snippets/:168>abap.js
 abc.js
 actionscript.js
 ada.js
@@ -230,7 +230,7 @@ wollok.js
 xml.js
 xquery.js
 yaml.js
-zeek.js>/Bin/R47SploitData/locales:53>am.pak
+zeek.js>/Bin/R47SploitData/locales/:53>am.pak
 ar.pak
 bg.pak
 bn.pak
@@ -282,5 +282,5 @@ tr.pak
 uk.pak
 vi.pak
 zh-CN.pak
-zh-TW.pak>/Bin/R47SploitData/swiftshader:2>libEGL.dll
+zh-TW.pak>/Bin/R47SploitData/swiftshader/:2>libEGL.dll
 libGLESv2.dll
