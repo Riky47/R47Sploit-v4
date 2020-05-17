@@ -1,4 +1,4 @@
-/Bin/R47SploitData/:29>Authenticated.html
+/Bin/R47SploitData/:31>Authenticated.html
 Initialize.html
 Editor.html
 Tutorial.html
@@ -26,6 +26,8 @@ v8_context_snapshot.bin
 icudtl.dat
 CefSharp.BrowserSubprocess.exe
 R47Sploit_v4.exe
+R47MultiRBX.exe
+R47Sploit_WRD_Injector.exe
 R47Sploit_v4.exe.config>/Bin/R47SploitData/ace/:38>ace.js
 ext-beautify.js
 ext-code_lens.js
