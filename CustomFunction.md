@@ -4,13 +4,19 @@
 
 *Example:* if **_R47Spl** then..
 
+---
+
 **_R47LoadObj() => Object loadstring**
 
 *Example:* **_R47LoadObj(** *19056924* **)**
 
+---
+
 **_R47LoadHttp() => Http loadstring**
 
 *Example:* **_R47LoadObj(** *"https://pastebin.com/raw/4z0xCPMN"* **)**
+
+---
 
 **_R47RanString(stronger) => Return random string [normal/stronger]**
 
